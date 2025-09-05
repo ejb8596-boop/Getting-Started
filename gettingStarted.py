@@ -1,5 +1,3 @@
-import hashlib
-
 def welcome_assignment_answers(question):
 
     if question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
@@ -22,4 +20,5 @@ def welcome_assignment_answers(question):
         answer = 3
 
     return answer
+
 
